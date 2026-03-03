@@ -1,2 +1,3 @@
-# Natural-Beauty
+# Natural-Beauty-Parlour
+
 My first project
